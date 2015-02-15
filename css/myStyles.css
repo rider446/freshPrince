@@ -1,0 +1,32 @@
+h1 {
+	font-family: cursive;
+}
+
+body {
+	background-color: gray;
+    text-align: center;
+}
+
+ul {
+    text-align: left;
+}
+
+/* unvisited link */
+a:link {
+    color: green;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: red;
+}
+
+/* selected link */
+a:active {
+    color: yellow;
+}
